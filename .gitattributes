@@ -1,0 +1,3 @@
+*.ino linguist-detectable=true
+*.ino linguist-language=C++
+*.ino linguist-documentation=false
